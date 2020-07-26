@@ -61,5 +61,5 @@ A folder of plots produced for reporting
    
 
 ## Aknowledgements
-I would like to thank my girlfriend for being patient with me during many long nights with this course and in the end capstone project. I would also like to thank the numerous contributors to places like StackExchange. Without you guys, we would be lost all of us! 
+Udacity for providing an amazing Data Science Nanodegree Program
 
